@@ -1,0 +1,2 @@
+Se pueden modificar los comandos modificando el fichero comandos_voz.json
+Los comandos de voz asociados a las acciones de salto hacia adelante y atrás pueden acompañarse de un número indicando la cantidad de segundos que se saltan, pero se debe procurar solo usar una palabra asociada

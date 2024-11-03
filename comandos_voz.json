@@ -1,0 +1,11 @@
+{
+    "Cierra video": ["cierra", "cierra video", "sal", "sal del video", "quita", "quita video"],
+    "Pausar video": ["pausa", "para", "pausa video", "para video"],
+    "Renaudar video": ["reproduce", "prosigue", "sigue", "dale", "continúa", "reproduce video", "sigue video", "continúa video"],
+    "Siguiente video": ["siguiente", "siguiente video", "pasa video"],
+    "Anterior video": ["anterior", "video anterior"],
+    "Aumentar velocidad": ["más rápido", "más velocidad", "aumenta velocidad"],
+    "Disminuir velocidad": ["más lento", "menos velocidad", "menos rápido"],
+    "Saltar tiempo adelante": ["adelanta", "avanza"],
+    "Saltar tiempo atrás": ["vuelve", "atrasa", "retrasa"]
+}
